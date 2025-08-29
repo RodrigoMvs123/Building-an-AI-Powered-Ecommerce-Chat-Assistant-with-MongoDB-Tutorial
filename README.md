@@ -1,7 +1,5 @@
 ## Building an AI Powered Ecommerce Chat Assistant with MongoDB Tutorial
 
-1:00:53
-
 - https://www.youtube.com/watch?v=9tANiA0LKn4 
 
 1. Autonomously decides when to search the database versus when to respond direct
